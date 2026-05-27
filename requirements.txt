@@ -5,3 +5,4 @@ phik>=0.12
 matplotlib>=3.7
 seaborn>=0.13
 jupyter>=1.0
+optuna>=4.8
